@@ -1,0 +1,29 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "vadf",
+      "author": "cxxcbnser",
+      "id": 4
+    },
+    {
+      "title": "IT 2",
+      "author": "Steven King",
+      "id": 5
+    }
+  ]
+}
